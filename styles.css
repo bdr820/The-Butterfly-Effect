@@ -1,0 +1,17 @@
+body {
+    background-color: violet;
+    text-align: center;
+}
+h1, h2,h3{
+ color:blue;   
+    
+}
+body{
+    font-style: italic;
+    
+}
+img{
+    width: 500px;
+    border: solid;
+    border-width: 5px;
+}
